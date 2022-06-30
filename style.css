@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+header{
+    background-color: #000;
+} 
+ 
+.logominas {
+    margin-left: 430px;
+    padding-top: 25px;
+    text-align: center;
+}
+
+header h1 {
+    color: #fff;
+    font-size:70px;
+    margin-left: 280px;
+    font-family: "Arial", Open Sans;
+}
+
+header p {
+    color:#fff;
+    font-size:15px;
+    margin-left:580px
+}
+
+header p{
+    padding-top: 20px;
+    padding-bottom: 25px;
+    font-family: "Arial", Open sans;
+}
+
+.subtitulo {
+    padding-top:25px;
+    padding-bottom:25px;
+    background: #fff;
+    font-size:30px;
+    margin-left:100px;
+    font-family: "Arial", Open Sans;
+}
+
+.desenvolvido {
+    background: rgb(163, 61, 167);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:100px;
+    font-family: "Arial", Open sans;
+    color: rgb(151, 150, 150);
+}
+
+.foto {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left:280px;
+}
+
+.Informacao {
+    color: rgb(66, 66, 66);
+    font-family: "Arial", open Sans;
+    padding-left: 100px;
+    padding-bottom: 25px;
+    font-size:20px;
+    font-weight: bold;
+
+}
+
+.curso {
+    font-family: "Arial", Open sans;
+    padding-left: 100px;
+    font-size:20px;
+    font-family: "Arial", Open sans;
+    color: rgb(66, 66, 66);
+    padding-bottom: 25px;
+    padding-top:auto;
+
+}
+
+.titulo {
+    color: rgb(163, 61, 167);
+}
+
+.caixa_central {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background: rgb(66, 66, 66);
+    color: #fff;
+    font-size:20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Arial", Open sans;
+
+}
+
+.quadros {
+    padding-left: 20px;
+} 
+
+.agrupamento {
+    padding-left:430px;
+}
